@@ -1,0 +1,50 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.container{
+    width: 50vw;
+    height: 45vw;
+    border: 3px solid;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: repeat(8,1fr);
+
+
+}
+.you{
+    width:6.3vw ;
+    height: 5.63vw;
+    border: 1px solid;
+    position: relative;
+
+}
+.box1,.box3,.box5,.box7{
+    background-color: black;
+}
+.box10,.box12,.box14,.box16{
+    background-color: black;
+}
+.box17,.box19,.box21,.box23{
+    background-color:black;
+}
+.box26,.box28,.box30,.box32{
+    background-color: black;
+}
+.box33,.box35,.box37,.box39{
+    background-color: black;
+
+}
+.box42,.box44,.box46,.box48{
+    background-color:black;
+}
+.box49,.box51,.box53,.box55{
+    background-color: black;
+}
+.box58,.box60,.box62,.box64{
+    background-color: black;
+}
